@@ -23,4 +23,4 @@ The following are the solutions to the 2022 assignments from the course [CS231n:
 * [Q1](assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. (_Done_)
 * [Q2](assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs. (_Done_)
 * [Q3](assignment3/StyleTransfer-PyTorch.ipynb): Style Transfer. (_Done_)
-* [Q4](assignment3/Generative_Adversarial_Networks_PyTorch.ipynb): Generative Adversarial Networks ()
+* [Q4](assignment3/Generative_Adversarial_Networks_PyTorch.ipynb): Generative Adversarial Networks (_Done_)
